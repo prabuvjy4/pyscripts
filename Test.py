@@ -1,4 +1,4 @@
-print("Hello World")
+print("Hello World!")
 global Name
 Name=input("Enter the fruits:")
 
